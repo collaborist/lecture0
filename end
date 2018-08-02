@@ -1,0 +1,32 @@
+[33mcommit d08bf21486c3abc1d6dfe3b9afe78230083336b4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: db7067e d8e3b52
+Author: collaborist <kipras93@gmail.com>
+Date:   Thu Aug 2 15:51:19 2018 +0300
+
+    Add a third greeting fixed
+
+[33mcommit d8e3b52daecaf046a05a12b4119fc29959ad3ec1[m
+Author: collaborist <kipras93@gmail.com>
+Date:   Thu Aug 2 15:42:01 2018 +0300
+
+    Update hello.html
+
+[33mcommit db7067eff866396b04160ccb2391b7bf9dd12532[m
+Author: collaborist <kipras93@gmail.com>
+Date:   Thu Aug 2 15:41:18 2018 +0300
+
+    Add a third greeting
+
+[33mcommit fb7abddfdc2beb703226328b3e137463f4f399d9[m
+Author: collaborist <kipras93@gmail.com>
+Date:   Thu Aug 2 15:37:56 2018 +0300
+
+    Update hello.html
+    
+    Create a basic pattern of html-file with "Hello, world!"
+
+[33mcommit edba20dcb36006bf4e346262ecf35e5d25a2ce2a[m
+Author: collaborist <kipras93@gmail.com>
+Date:   Thu Aug 2 15:27:13 2018 +0300
+
+    Add beginning line
